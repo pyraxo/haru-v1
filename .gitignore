@@ -44,3 +44,4 @@ res.jpg
 # automatically added
 lib/modules/Fun/.tags/tags.json
 lib/modules/Fun/.call/channels.json
+*.config
