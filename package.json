@@ -7,7 +7,7 @@
     "start": "node index.js",
     "prod": "NODE_ENV=production node index.js",
     "forever": "NODE_ENV=production forever --minUptime 5000 --watch index.js",
-    "test": "node test/bot-test.js"
+    "test": "mocha test/mocha-test.js"
   },
   "keywords": [
     "Discord"
