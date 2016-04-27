@@ -1,0 +1,10 @@
+{
+  "admin_id"   : [
+    "admin ID 1",
+    "admin ID 2"
+  ],
+  "token"      : "bot token",
+  "prefix"     : "command prefix",
+  "soundcloud" : "soundcloud application ID",
+  "google_api" : "google API key"
+}
