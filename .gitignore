@@ -33,15 +33,15 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-# Configuration files
+# Configuration and other files
 config.json
 lib/modules/Currency/.credits/credits.json
 
-# gm results
 res.png
 res.jpg
 
-# automatically added
 lib/modules/Fun/.tags/tags.json
 lib/modules/Fun/.call/channels.json
+lib/modules/Fun/.hs/Classic.json
+
 *.config
