@@ -1,0 +1,2772 @@
+[
+  {
+    "cardId": "OG_086",
+    "name": "Forbidden Flame",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 0,
+    "text": "Spend all your Mana. Deal that much damage to a minion.",
+    "flavor": "WARNING: This flame is not to be used unless you are a licensed acolyte of the Old Gods.",
+    "artist": "Hideaki Takamura",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_086.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_086_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_198",
+    "name": "Forbidden Healing",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 0,
+    "text": "Spend all your Mana. Restore twice that much Health.",
+    "flavor": "No one's quite sure why it's forbidden. And yes, that should make you nervous.",
+    "artist": "Mike Franchina",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_198.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_198_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_114",
+    "name": "Forbidden Ritual",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 0,
+    "text": "Spend all your Mana. Summon that many 1/1 Tentacles.",
+    "flavor": "Actually, C'Thun gives his full support for this ritual.",
+    "artist": "Evgeniy Zagumennyy",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_114.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_114_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_101",
+    "name": "Forbidden Shaping",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 0,
+    "text": "Spend all your Mana. Summon a random minion that costs that much.",
+    "flavor": "But the minion arrives covered in goo.",
+    "artist": "A.J. Nazzaro",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_101.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_101_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_070",
+    "name": "Bladed Cultist",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 1,
+    "health": 2,
+    "text": "<b>Combo</b>: Gain +1/+1.",
+    "flavor": "He has a poor understanding of the law of diminishing returns.",
+    "artist": "Jakub Kasber",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_070.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_070_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Combo"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_314",
+    "name": "Blood To Ichor",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 1,
+    "text": "Deal $1 damage to a minion. If it survives, summon a 2/2 Slime.",
+    "flavor": "For his next trick, he turns the ichor back to blood and stuffs it back in you.",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_314.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_314_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_223",
+    "name": "Divine Strength",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "Give a minion +1/+2.",
+    "flavor": "Every year a few paladins get disqualified from the Westfall weight lifting championship for using Divine Strength.",
+    "artist": "Eva Wilderman",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_223.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_223_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_027",
+    "name": "Evolve",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 1,
+    "text": "Transform your minions into random minions that cost (1) more.",
+    "flavor": "So you say you want an evolution. Well, you know. We all want to change the board.",
+    "artist": "Luca Zontini",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_027.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_027_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_179",
+    "name": "Fiery Bat",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 2,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Deal 1 damage to a random enemy.",
+    "flavor": "He'll always be our first.",
+    "artist": "Andrew Hou",
+    "collectible": true,
+    "race": "Beast",
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_179.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_179_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_051",
+    "name": "Forbidden Ancient",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Battlecry:</b> Spend all your Mana. Gain +1/+1 for each mana spent.",
+    "flavor": "This Ancient was banned from the local tavern after tucking a 'Dr. Boom' up its sleeve.",
+    "artist": "Grace Liu",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_051.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_051_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_072",
+    "name": "Journey Below",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 1,
+    "text": "<b>Discover</b> a <b>Deathrattle</b> card.",
+    "flavor": "Don't stop believing there's something below.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_072.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_072_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_312",
+    "name": "N'Zoth's First Mate",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Battlecry:</b> Equip a 1/3 Rusty Hook.",
+    "flavor": "Hates when N'Zoth yells \"Ahoy Matey!!\", but there's not really much he can do about it. ",
+    "artist": "Paul Mafayon",
+    "collectible": true,
+    "race": "Pirate",
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_312.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_312_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_061",
+    "name": "On the Hunt",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "Deal $1 damage.\nSummon a 1/1 Mastiff.",
+    "flavor": "The mastiff giggles if you don't hit any ducks.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_061.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_061_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_241",
+    "name": "Possessed Villager",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Summon a 1/1 Shadowbeast.",
+    "flavor": "It's like a pinata! A lame disgusting horrific pinata.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_241.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_241_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_023",
+    "name": "Primal Fusion",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "Give a minion +1/+1 for each of your Totems.",
+    "flavor": "Golce and Dabbana have a new line of Earth Totems available at vendors everywhere this holiday season.",
+    "artist": "Jimmy Lo",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_023.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_023_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_221",
+    "name": "Selfless Hero",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 1,
+    "attack": 2,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Give a random friendly minion <b>Divine Shield</b>.",
+    "flavor": "\"Don't worry about me… I'll just be here... under these tentacles.\"",
+    "artist": "Rafael Zanchetin",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_221.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_221_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_123",
+    "name": "Shifter Zerus",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "Each turn this is in your hand, transform it into a random minion.",
+    "flavor": "It's like being able to play with THREE angry chickens!",
+    "artist": "Daria Tuzova",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_123.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_123_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_151",
+    "name": "Tentacle of N'Zoth",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Deal 1 damage to all minions.",
+    "flavor": "Because EVERYDAY is the Day of the Tentacle of N'zoth.",
+    "artist": "J. Meyers & T. Washington",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_151.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_151_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_006",
+    "name": "Vilefin Inquisitor",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 1,
+    "attack": 1,
+    "health": 3,
+    "text": "<b>Battlecry:</b> Your Hero Power becomes 'Summon a   1/1 Murloc.'",
+    "flavor": "Nobody expects the Vilefin Inquisition!",
+    "artist": "Jerry Mascho",
+    "collectible": true,
+    "race": "Murloc",
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_006.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_006_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_158",
+    "name": "Zealous Initiate",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Give a random friendly minion +1/+1.",
+    "flavor": "Ok, Initiate. You need to settle down and do your job. In this case, that means die so someone else can get a minor buff.",
+    "artist": "Cole Eastburn",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_158.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_158_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_311",
+    "name": "A Light in the Darkness",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 2,
+    "text": "<b>Discover</b> a minion.\nGive it +1/+1.",
+    "flavor": "Wait, how can you have a light in the dark?  If you turn on a light while it’s dark, doesn’t that mean it’s no longer dark?",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_311.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_311_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_281",
+    "name": "Beckoner of Evil",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "text": "<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>",
+    "flavor": "Here, Evil!  C'mon boy!",
+    "artist": "Eva Wilderman",
+    "collectible": true,
+    "howToGet": "Unlocked when opening a Whispers of the Old Gods pack.",
+    "howToGetGold": "Crafting unlocked after opening a Whispers of the Old Gods pack.",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_281.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_281_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_156",
+    "name": "Bilefin Tidehunter",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 2,
+    "health": 1,
+    "text": "<b>Battlecry:</b> Summon a 1/1 Ooze with <b>Taunt</b>.",
+    "flavor": "Bile actually makes for surprisingly sturdy fins.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "race": "Murloc",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_156.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_156_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_303",
+    "name": "Cult Sorcerer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 2,
+    "attack": 3,
+    "health": 2,
+    "text": "[x]<b><b>Spell Damage</b> +1</b>\nAfter you cast a spell,\ngive your C'Thun +1/+1\n<i>(wherever it is).</i>",
+    "flavor": "No matter how many times we tell her not to, she keeps feeding C'Thun scraps under the table.",
+    "artist": "J. Meyers & T. Washington",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_303.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_303_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Spell Damage"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_109",
+    "name": "Darkshire Librarian",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 2,
+    "attack": 3,
+    "health": 2,
+    "text": "<b>Battlecry:</b>\nDiscard a random card. <b>Deathrattle:</b>\nDraw a card.",
+    "flavor": "Do NOT be late with your overdue fines.",
+    "artist": "Rafael Zanchetin",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_109.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_109_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_326",
+    "name": "Duskboar",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 4,
+    "health": 1,
+    "flavor": "Often excluded from dinner parties.  To be fair, he is very boaring.",
+    "artist": "Samwise",
+    "collectible": true,
+    "race": "Beast",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_326.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_326_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_104",
+    "name": "Embrace the Shadow",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 2,
+    "text": "This turn, your healing effects deal damage instead.",
+    "flavor": "For when your Auchenai Soulpriests call in sick.",
+    "artist": "Rafael Zanchetin",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_104.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_104_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_026",
+    "name": "Eternal Sentinel",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 2,
+    "attack": 3,
+    "health": 2,
+    "text": "<b>Battlecry:</b> Unlock your <b>Overloaded</b> Mana Crystals.",
+    "flavor": "Just try to avoid eye contact.",
+    "artist": "J. Meyers & Nutchapol ",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_026.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_026_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_048",
+    "name": "Mark of Y'Shaarj",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 2,
+    "text": "Give a minion +2/+2.\nIf it's a Beast, draw\na card.",
+    "flavor": "Y'shaarj had three sons: Mark, Theodore, and Chris.",
+    "artist": "Efrem Palacios",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_048.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_048_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_338",
+    "name": "Nat, the Darkfisher",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 2,
+    "attack": 2,
+    "health": 4,
+    "text": "At the start of your opponent's turn, they have a 50% chance to draw an extra card.",
+    "flavor": "You can take away his humanity, but you will never take away his fishing pole.",
+    "artist": "Steve Prescott",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_338.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_338_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_118",
+    "name": "Renounce Darkness",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 2,
+    "text": "Replace your Hero Power and Warlock cards with another class's. The cards cost (1) less.",
+    "flavor": "SEE YA DARKNESS!",
+    "artist": "Dan Scott",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_118.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_118_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_081",
+    "name": "Shatter",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 2,
+    "text": "Destroy a <b>Frozen</b> minion.",
+    "flavor": "What's cooler than being cool?",
+    "artist": "Trent Kaniuga",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_081.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_081_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_206",
+    "name": "Stormcrack",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 2,
+    "text": "Deal $4 damage to a minion. <b>Overload:</b> (1)",
+    "flavor": "WARNING: DO NOT TOUCH THE PURPLE BALL OF LIGHTNING",
+    "artist": "Maurico Herrera",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_206.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_206_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Overload"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_284",
+    "name": "Twilight Geomancer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 1,
+    "health": 4,
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Give your C'Thun\n<b>Taunt</b> <i>(wherever it is).</i>",
+    "flavor": "\"Ok C'Thun, repeat after me: 'Your mother was a hamster.'\"",
+    "artist": "Eric Braddock",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_284.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_284_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_247",
+    "name": "Twisted Worgen",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 3,
+    "health": 1,
+    "text": "<b>Stealth</b>",
+    "flavor": "Sometimes the Old Gods' corruptions gives you power untold, sometimes you get +1 Attack. We can’t all be winners in the Eldritch lottery.",
+    "artist": "Trent Kaniuga",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_247.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_247_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Stealth"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_330",
+    "name": "Undercity Huckster",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Deathrattle:</b> Add a random class card to your hand <i>(from your opponent's class)</i>.",
+    "flavor": "Psst! Wanna buy a random class card (from your opponent's class)?",
+    "artist": "Jon Neimeister",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_330.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_330_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_313",
+    "name": "Addled Grizzly",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 2,
+    "health": 2,
+    "text": "After you summon a minion, give it +1/+1.",
+    "flavor": "Druids who spend too long in bear form are more susceptible to the whispers of the Old Gods.  Right now they are whispering the lyrics to \"La Bamba\".",
+    "artist": "Andrew Hou",
+    "collectible": true,
+    "race": "Beast",
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_313.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_313_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_248",
+    "name": "Am'gam Rager",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 1,
+    "health": 5,
+    "flavor": "peerc rewop",
+    "artist": "Matt Gaser",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_248.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_248_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_276",
+    "name": "Blood Warriors",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 3,
+    "text": "Add a copy of each damaged friendly minion to your hand.",
+    "flavor": "They have an uneasy rivalry with the Blood Paladins.",
+    "artist": "A.J. Nazzaro",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_276.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_276_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_315",
+    "name": "Bloodsail Cultist",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 3,
+    "health": 4,
+    "text": "<b>Battlecry:</b> If you control a Pirate, give your weapon +1/+1.",
+    "flavor": "They're really just in it for the Blood Parrot.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "race": "Pirate",
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_315.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_315_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_325",
+    "name": "Carrion Grub",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 2,
+    "health": 5,
+    "flavor": "Carrion, my wayward grub.",
+    "artist": "Kan Lui",
+    "collectible": true,
+    "race": "Beast",
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_325.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_325_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_113",
+    "name": "Darkshire Councilman",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 1,
+    "health": 5,
+    "text": "After you summon a minion, gain +1 Attack.",
+    "flavor": "Democracy in action!",
+    "artist": "Garrett Hanna",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_113.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_113_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_162",
+    "name": "Disciple of C'Thun",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 2,
+    "health": 1,
+    "text": "<b>Battlecry:</b> Deal 2 damage. Give your C'Thun +2/+2 <i>(wherever it is)</i>.",
+    "flavor": "C’Thun’s recruiting pitch involves cookies, which is why it’s the most popular Old God.",
+    "artist": "Dan Scott",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_162.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_162_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_047",
+    "name": "Feral Rage",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 3,
+    "text": "<b>Choose One</b> - Give your hero +4 Attack this turn; or Gain 8 Armor.",
+    "flavor": "Let's be honest. One option is a lot ragier than the other.",
+    "artist": "Alex Alexandrov",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_047.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_047_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_292",
+    "name": "Forlorn Stalker",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 4,
+    "health": 2,
+    "text": "<b>Battlecry:</b> Give all <b>Deathrattle</b> minions in your hand +1/+1.",
+    "flavor": "He's going to leave the dying up to you, if that's cool.",
+    "artist": "Peter Stapleton",
+    "collectible": true,
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_292.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_292_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_045",
+    "name": "Infest",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 3,
+    "text": "Give your minions \"<b>Deathrattle:</b> Add a random Beast to your hand.\"",
+    "flavor": "The best part is the look on their face when you jump out of the cake! Err… corpse.",
+    "artist": "Anton Zemskov",
+    "collectible": true,
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_045.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_045_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_222",
+    "name": "Rallying Blade",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Weapon",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 3,
+    "durability": 2,
+    "text": "<b>Battlecry:</b> Give +1/+1 to your minions with <b>Divine Shield</b>.",
+    "flavor": "As far as blades go, this one is pretty great in the motivation department.",
+    "artist": "J. Curtis Cranford",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_222.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_222_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_149",
+    "name": "Ravaging Ghoul",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "text": "<b>Battlecry:</b> Deal 1 damage to all other minions.",
+    "flavor": "But goes by \"Ravishing Ghoul\" when he hits the club.",
+    "artist": "Dany Orizio",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_149.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_149_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_176",
+    "name": "Shadow Strike",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 3,
+    "text": "Deal $5 damage to an undamaged character.",
+    "flavor": "It's like a backstab, only from the front. And with two more stabs.",
+    "artist": "Dave Allsop",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_176.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_176_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_034",
+    "name": "Silithid Swarmer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 3,
+    "health": 5,
+    "text": "Can only attack if your hero attacked this turn.",
+    "flavor": "If your hero doesn't attack, it's just \"Silithid Loner\".",
+    "artist": "Jakub Kasber",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_034.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_034_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_256",
+    "name": "Spawn of N'Zoth",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Deathrattle:</b> Give your minions +1/+1.",
+    "flavor": "Who's a cute widdle N'Zoth? You are! Yes you are! Yes you're the cutest widdle N'Zoth in the whole world!!!",
+    "artist": "Peter Stapleton",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_256.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_256_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_116",
+    "name": "Spreading Madness",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 3,
+    "text": "Deal $9 damage randomly split among ALL characters.",
+    "flavor": "Most citizens of Darkshire wear those surgical masks to prevent spreading Madness to tourists.",
+    "artist": "Mauricio Herrera",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_116.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_116_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "ImmuneToSpellpower"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_327",
+    "name": "Squirming Tentacle",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 2,
+    "health": 4,
+    "text": "<b>Taunt</b>",
+    "flavor": "Yeah, I think we can agree that killing the squirming tentacle first is a good idea.",
+    "artist": "L. Lullabi &  Nutchapol ",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_327.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_327_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_310",
+    "name": "Steward of Darkshire",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "text": "Whenever you summon a 1-Health minion, give it <b>Divine Shield</b>.",
+    "flavor": "Turns out divine shields are way cheaper if you buy in bulk.",
+    "artist": "Phroi Gardner",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_310.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_310_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_286",
+    "name": "Twilight Elder",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 3,
+    "health": 4,
+    "text": "At the end of your turn, give your C'Thun +1/+1 <i>(wherever it is).</i>",
+    "flavor": "Just doesn't understand those Twilight Youngsters any more - with their comic books and their rock music.",
+    "artist": "Tooth",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_286.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_286_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_083",
+    "name": "Twilight Flamecaller",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Battlecry:</b> Deal 1 damage to all enemy minions.",
+    "flavor": "Make sure you summon a Twilight Marshmallowcaller too! Mmmm Mmm Mmm!!",
+    "artist": "Anton Zemskov",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_083.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_083_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_150",
+    "name": "Aberrant Berserker",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 3,
+    "health": 5,
+    "text": "<b>Enrage:</b> +2 Attack.",
+    "flavor": "I berserk, therefore I am.",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_150.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_150_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Enrage"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_322",
+    "name": "Blackwater Pirate",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 2,
+    "health": 5,
+    "text": "Your weapons cost (2) less.",
+    "flavor": "\"Look, they fell off the back of a ship, do you want them or not? I have a meeting with Y'Shaarj in like ten minutes.\"",
+    "artist": "Max Grecke",
+    "collectible": true,
+    "race": "Pirate",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_322.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_322_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_218",
+    "name": "Bloodhoof Brave",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 2,
+    "health": 6,
+    "text": "<b>Taunt</b>\n<b>Enrage:</b> +3 Attack.",
+    "flavor": "He thought the set was called \"Flippers of the Old Cods\" and hungrily volunteered to be in it.  He is definitely going to get his hearing checked.",
+    "artist": "Paul Mafayon",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_218.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_218_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Enrage"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_283",
+    "name": "C'Thun's Chosen",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 4,
+    "health": 2,
+    "text": "[x]<b>Divine Shield</b>\n<b>Battlecry:</b> Give your C'Thun\n+2/+2 <i>(wherever it is).</i>",
+    "flavor": "He gave her a promise ring and everything.",
+    "artist": "Jesper Esjing",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_283.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_283_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Divine Shield"
+      },
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_337",
+    "name": "Cyclopian Horror",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "text": "<b>Taunt</b>. <b>Battlecry:</b> Gain      +1 Health for each enemy minion.",
+    "flavor": "What are the qualifications for being a 'Horror?'  Just how horrible do you have to be?",
+    "artist": "Garrett Hanna",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_337.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_337_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      },
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_085",
+    "name": "Demented Frostcaller",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 2,
+    "health": 4,
+    "text": "After you cast a spell, <b>Freeze</b> a random enemy.",
+    "flavor": "He prefers that you refer to him by his nickname: 'Frostwaker.'",
+    "artist": "Arthur Gimaldinov",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_085.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_085_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_254",
+    "name": "Eater of Secrets",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 2,
+    "health": 4,
+    "text": "<b>Battlecry:</b> Destroy all enemy <b>Secrets</b>. Gain +1/+1 for each.",
+    "flavor": "You don't want to be around after it has eaten an explosive trap.  You thought Sludge Belcher was bad...",
+    "artist": "Dan Scott",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_254.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_254_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_082",
+    "name": "Evolved Kobold",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Spell Damage +2</b>",
+    "flavor": "You no take tentacle!",
+    "artist": "Genevieve Tsai & Nutchapol ",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_082.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_082_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Spell Damage"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_174",
+    "name": "Faceless Shambler",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 4,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Taunt</b>\n<b>Battlecry:</b> Copy a friendly minion's Attack and Health.",
+    "flavor": "\"What is that thing?!\" \"I'm not sure, but it seems to be sort of Y'sera shaped.\"",
+    "artist": "Alex Alexandrov",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_174.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_174_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_044",
+    "name": "Fandral Staghelm",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 4,
+    "attack": 3,
+    "health": 5,
+    "text": "Your <b>Choose One</b> cards have both effects combined.",
+    "flavor": "Always manages to mention \"Back when I was creating the World Tree…\" in EVERY conversation. Sheesh! Enough already.",
+    "artist": "Anton Zemskov",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_044.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_044_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Aura"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_024",
+    "name": "Flamewreathed Faceless",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 7,
+    "health": 7,
+    "text": "<b>Overload:</b> (2)",
+    "flavor": "He's on fire! Boomshakalaka!",
+    "artist": "E. M. Gist",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_024.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_024_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Overload"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_334",
+    "name": "Hooded Acolyte",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 3,
+    "health": 6,
+    "text": "Whenever a character is healed, give your\nC'Thun +1/+1 <i>(wherever it is).</i>",
+    "flavor": "Wait, what kind of acolyte doesn't wear a hood?",
+    "artist": "Adam Byrne",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_334.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_334_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_249",
+    "name": "Infested Tauren",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 2,
+    "health": 3,
+    "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Summon a 2/2 Slime.",
+    "flavor": "The Overmind and the Old Gods are surprisingly similar.",
+    "artist": "Paul Mafayon",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_249.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_249_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_216",
+    "name": "Infested Wolf",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "text": "<b>Deathrattle:</b> Summon two 1/1 Spiders.",
+    "flavor": "A little flea powder will fix that right up.",
+    "artist": "E. Guiton & A. Bozonnet",
+    "collectible": true,
+    "race": "Beast",
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_216.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_216_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_188",
+    "name": "Klaxxi Amber-Weaver",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 4,
+    "health": 5,
+    "text": "<b>Battlecry:</b> If your C'Thun has at least 10 Attack, gain +5 Health.",
+    "flavor": "Amberweaving is a specialty course at the local trade school.",
+    "artist": "Cole Eastburn",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_188.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_188_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_328",
+    "name": "Master of Evolution",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 4,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Transform a friendly minion into a random one that costs (1) more.",
+    "flavor": "Will be really useful in the new \"Hearthémon\" game.",
+    "artist": "Dan Scott",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_328.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_328_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_320",
+    "name": "Midnight Drake",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 1,
+    "health": 4,
+    "text": "<b>Battlecry:</b> Gain +1 Attack for each other card\nin your hand.",
+    "flavor": "Still fearsome in the daytime.",
+    "artist": "Todd Lockwood",
+    "collectible": true,
+    "race": "Dragon",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_320.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_320_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_202",
+    "name": "Mire Keeper",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "text": "[x]<b>Choose One -</b>Summon a\n2/2 Slime; or Gain an\nempty Mana Crystal.",
+    "flavor": "\"Hey.... Is that Mire for sale?\" \n  \"No.  I'm keeping it.\"",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_202.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_202_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_323",
+    "name": "Polluted Hoarder",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 4,
+    "health": 2,
+    "text": "<b>Deathrattle:</b> Draw a card.",
+    "flavor": "Roll ‘greed’ OR THIS COULD HAPPEN TO YOU.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_323.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_323_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_100",
+    "name": "Shadow Word: Horror",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 4,
+    "text": "Destroy all minions with 2 or less Attack.",
+    "flavor": "It's more succinct than \"Shadow Word: Suck Into Vortex.\"",
+    "artist": "Andrew Hou",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_100.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_100_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_335",
+    "name": "Shifting Shade",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 4,
+    "attack": 4,
+    "health": 3,
+    "text": "<b>Deathrattle:</b> Copy a card from your opponent's deck and add it to your hand.",
+    "flavor": "Yeah, it's cooler in the shade, but you're also more likely to get JACKED.",
+    "artist": "Tyler Walpole",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_335.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_335_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_267",
+    "name": "Southsea Squidface",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 4,
+    "health": 4,
+    "text": "<b>Deathrattle:</b> Give your weapon +2 Attack.",
+    "flavor": "Quick! Before I drown! Let me sharpen your sword for you.",
+    "artist": "Mike Sass",
+    "collectible": true,
+    "race": "Pirate",
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_267.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_267_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_272",
+    "name": "Twilight Summoner",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 4,
+    "attack": 1,
+    "health": 1,
+    "text": "<b>Deathrattle:</b> Summon a 5/5 Faceless Destroyer.",
+    "flavor": "If you strike him down, he shall become more powerful than you can possibly imagine.",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_272.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_272_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_080",
+    "name": "Xaril, Poisoned Mind",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 4,
+    "attack": 3,
+    "health": 2,
+    "text": "<b>Battlecry and Deathrattle:</b> Add a random Toxin card to your hand.",
+    "flavor": "It's basically your own fault if you go around drinking weird green potions handed out by creepy mantid dudes.",
+    "artist": "Jaemin Kim",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_080.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_080_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_090",
+    "name": "Cabalist's Tome",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 5,
+    "text": "Add 3 random Mage spells to your hand.",
+    "flavor": "What's in there? I bet it's cookie recipes!",
+    "artist": "Milivoj Ceran",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_090.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_090_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_147",
+    "name": "Corrupted Healbot",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>Deathrattle:</b> Restore 8 Health to the enemy hero.",
+    "flavor": "Not so much \"corrupted\" as \"has terrible aim\".",
+    "artist": "Jesper Esjing",
+    "collectible": true,
+    "race": "Mech",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_147.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_147_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_321",
+    "name": "Crazed Worshipper",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 3,
+    "health": 6,
+    "text": "<b>Taunt.</b> Whenever this minion takes damage, give your C'Thun +1/+1 <i>(wherever it is).</i>",
+    "flavor": "Every month they share a pancake breakfast with the Perfectly Rational Worshippers.",
+    "artist": "Gonzalo Ordonez",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_321.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_321_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_295",
+    "name": "Cult Apothecary",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 5,
+    "attack": 4,
+    "health": 4,
+    "text": "<b>Battlecry:</b> For each enemy minion, restore 2 Health to your hero.",
+    "flavor": "Cults need pharmacists too.",
+    "artist": "Paul Mafayon",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_295.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_295_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_234",
+    "name": "Darkshire Alchemist",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 5,
+    "attack": 4,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Restore 5 Health.",
+    "flavor": "The secret ingredient: liquified funnel cake.",
+    "artist": "Chris Seaman",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_234.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_234_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_102",
+    "name": "Darkspeaker",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 3,
+    "health": 6,
+    "text": "<b>Battlecry</b>: Swap stats with a friendly minion.",
+    "flavor": "People often think that Darkspeaker is the arch nemesis of Lightspeaker, but that title actually belongs to Heavyspeaker.",
+    "artist": "Phroi Gardner",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_102.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_102_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_209",
+    "name": "Hallazeal the Ascended",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 5,
+    "attack": 4,
+    "health": 6,
+    "text": "Whenever your spells deal damage, restore that much Health to your hero.",
+    "flavor": "Hallazeals all your dallazamage.",
+    "artist": "Wayne Reynolds",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_209.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_209_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_031",
+    "name": "Hammer of Twilight",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Weapon",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 4,
+    "durability": 2,
+    "text": "<b>Deathrattle:</b> Summon a 4/2 Elemental.",
+    "flavor": "Stop! It's Twlight Hammer time.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_031.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_031_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_094",
+    "name": "Power Word: Tentacles",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 5,
+    "text": "Give a minion +2/+6.",
+    "flavor": "Because you're wrapped in a protective layer of… tentacles?",
+    "artist": "Jesper Ejsing",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_094.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_094_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_309",
+    "name": "Princess Huhuran",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 5,
+    "attack": 6,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Trigger a friendly minion's <b>Deathrattle</b> effect.",
+    "flavor": "She flitters around Ahn'Qiraj dreaming of the day she will meet a sweet prince, whom she can lay thousands of eggs with.",
+    "artist": "Jaemin Kim",
+    "collectible": true,
+    "elite": true,
+    "race": "Beast",
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_309.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_309_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_145",
+    "name": "Psych-o-Tron",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 5,
+    "attack": 3,
+    "health": 4,
+    "text": "<b>Taunt</b>\n<b>Divine Shield</b>",
+    "flavor": "\"Annoyinger-o-Tron\" was just too unwieldy. And accurate.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "race": "Mech",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_145.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_145_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      },
+      {
+        "name": "Divine Shield"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_087",
+    "name": "Servant of Yogg-Saron",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 5,
+    "health": 4,
+    "text": "<b>Battlecry:</b> Cast a random spell that costs (5) or less <i>(targets chosen randomly)</i>.",
+    "flavor": "Yogg-Saron always likes to complain about how he has too many servants and there are too many mouths to feed.",
+    "artist": "Slawomir Maniak",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_087.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_087_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_291",
+    "name": "Shadowcaster",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 4,
+    "health": 4,
+    "text": "<b>Battlecry:</b> Choose a friendly minion. Add a 1/1 copy     to your hand that costs (1).",
+    "flavor": "I mean, it's not creepy if you ASK before you steal their shadow to make a small replica of them to keep on your shelf.",
+    "artist": "J. Meyers & A. Bozonnet",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_291.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_291_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_273",
+    "name": "Stand Against Darkness",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 5,
+    "text": "Summon five 1/1 Silver Hand Recruits.",
+    "flavor": "Or if you're too tired, you can just kind of lean against the darkness.",
+    "artist": "Ralph Horsley",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_273.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_273_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_033",
+    "name": "Tentacles for Arms",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Weapon",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 2,
+    "durability": 2,
+    "text": "<b>Deathrattle:</b> Return this to your hand.",
+    "flavor": "That's right. Garrosh just slapped you to death with a tentacle.",
+    "artist": "Alex Konstad",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_033.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_033_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_096",
+    "name": "Twilight Darkmender",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 6,
+    "health": 5,
+    "text": "<b>Battlecry:</b> If your C'Thun  has at least 10 Attack, restore 10 Health to your hero.",
+    "flavor": "First she separates them from the lights, washes them in cold water, and hang-dries.",
+    "artist": "Alex Garner",
+    "collectible": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_096.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_096_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_302",
+    "name": "Usher of Souls",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 5,
+    "attack": 5,
+    "health": 6,
+    "text": "Whenever a friendly minion dies, give your C'Thun +1/+1\n<i>(wherever it is).</i>",
+    "flavor": "Nothing unburdens your soul like a good ushing!",
+    "artist": "Dave Allsop",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_302.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_302_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_200",
+    "name": "Validated Doomsayer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 0,
+    "health": 7,
+    "text": "At the start of your turn, set this minion's Attack to 7.",
+    "flavor": "Really feels good about himself and is in a much better place now. But… he sure does miss piloting those shredders.",
+    "artist": "Dan Orizio",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_200.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_200_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_290",
+    "name": "Ancient Harbinger",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 6,
+    "attack": 4,
+    "health": 6,
+    "text": "At the start of your turn, put a 10-Cost minion from your deck into your hand.",
+    "flavor": "\"honey, can u run down to the store and pick up some 10 cost minions? thx\"",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_290.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_290_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_161",
+    "name": "Corrupted Seer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 6,
+    "attack": 2,
+    "health": 3,
+    "text": "<b>Battlecry:</b> Deal 2 damage to all non-Murloc minions.",
+    "flavor": "For seers, it's very handy to have your crystal ball hanging right in front of your face.",
+    "artist": "Ryan Metcalf",
+    "collectible": true,
+    "race": "Murloc",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_161.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_161_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_293",
+    "name": "Dark Arakkoa",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 6,
+    "attack": 5,
+    "health": 7,
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Give your C'Thun\n+3/+3 <i>(wherever it is).</i>",
+    "flavor": "There's a whole gradient of Arakkoa! This one is on the darker side.",
+    "artist": "Nutchapol Thitinunthakorn",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_293.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_293_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_207",
+    "name": "Faceless Summoner",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 6,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Summon a random 3-Cost minion.",
+    "flavor": "They never get the recognition they deserve.",
+    "artist": "Mark Abadier",
+    "collectible": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_207.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_207_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_316",
+    "name": "Herald Volazj",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 6,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Summon a 1/1 copy of each of your other minions.",
+    "flavor": "His whole job is yelling \"Yogg-Saron comin'!\"",
+    "artist": "Luke Mancini",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Priest",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_316.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_316_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_122",
+    "name": "Mukla, Tyrant of the Vale",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 6,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Add 2 Bananas to your hand.",
+    "flavor": "Pro tip: DO NOT BOGART THE BANANAS.",
+    "artist": "Sam Nielson",
+    "collectible": true,
+    "elite": true,
+    "race": "Beast",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_122.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_122_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_138",
+    "name": "Nerubian Prophet",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 6,
+    "attack": 4,
+    "health": 4,
+    "text": "At the start of your turn, reduce this card's\nCost by (1).",
+    "flavor": "It’s a self-reducing prophecy.",
+    "artist": "Lars Grant-West",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_138.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_138_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_271",
+    "name": "Scaled Nightmare",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 6,
+    "attack": 2,
+    "health": 8,
+    "text": "At the start of your turn, double this minion's Attack.",
+    "flavor": "I like it because it scales.",
+    "artist": "Luke Mancini",
+    "collectible": true,
+    "race": "Dragon",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_271.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_271_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_339",
+    "name": "Skeram Cultist",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 6,
+    "attack": 7,
+    "health": 6,
+    "text": "<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>",
+    "flavor": "Just before he comes into play, there is an AWESOME training montage with C'thun.",
+    "artist": "Jaemin Kim",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_339.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_339_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_028",
+    "name": "Thing from Below",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 6,
+    "attack": 5,
+    "health": 5,
+    "text": "[x]<b>Taunt</b>\nCosts (1) less for each\nTotem you've summoned\nthis game.",
+    "flavor": "Just can't resist the opportunity to hang around with a bunch of totems.",
+    "artist": "Slawomir Maniak",
+    "collectible": true,
+    "playerClass": "Shaman",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_028.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_028_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_073",
+    "name": "Thistle Tea",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 6,
+    "text": "Draw a card. Add 2 extra copies of it to your hand.",
+    "flavor": "Aren't Thistles prickly?  Why would you drink them? I don't get Rogues.",
+    "artist": "Matthew O'Connor",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_073.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_073_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_301",
+    "name": "Ancient Shieldbearer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 7,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>Battlecry:</b> If your C'Thun has at least 10 Attack, gain 10 Armor.",
+    "flavor": "Back in her day, each shield weighed two tons and she had to carry four of them on each arm!",
+    "artist": "Alex Konstad",
+    "collectible": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_301.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_301_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_153",
+    "name": "Bog Creeper",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 7,
+    "attack": 6,
+    "health": 8,
+    "text": "<b>Taunt</b>",
+    "flavor": "He's tried other things, but bog sidling, bog ambling, and bog trundling just aren't as effective as bog creeping.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_153.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_153_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_121",
+    "name": "Cho'gall",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 7,
+    "attack": 7,
+    "health": 7,
+    "text": "<b>Battlecry:</b> The next spell you cast this turn costs Health instead of Mana.",
+    "flavor": "Even after all this time, Gul'dan still makes Cho'gall go get donuts and coffee.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_121.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_121_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_152",
+    "name": "Grotesque Dragonhawk",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 7,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Windfury</b>",
+    "flavor": "They say that \"grotesque is in the eye of the beholder,\" but that's just because they've never seen a Grotesque Dragonhawk. Yikes!",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "race": "Beast",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_152.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_152_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Windfury"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_318",
+    "name": "Hogger, Doom of Elwynn",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 7,
+    "attack": 6,
+    "health": 6,
+    "text": "Whenever this minion takes damage, summon a 2/2 Gnoll with <b>Taunt</b>.",
+    "flavor": "When C'thun went to sleep, he checked under his bed for Hogger.",
+    "artist": "Matt Dixon",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_318.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_318_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_220",
+    "name": "Malkorok",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 7,
+    "attack": 6,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Equip a random weapon.",
+    "flavor": "Garrosh's best buddy. It's true. Look it up.",
+    "artist": "E. Guiton & Nutchapol ",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Warrior",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_220.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_220_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_131",
+    "name": "Twin Emperor Vek'lor",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 7,
+    "attack": 4,
+    "health": 6,
+    "text": "[x]<b><b>Taunt</b>\nBattlecry:</b> If your C'Thun has\nat least 10 Attack, summon\nanother Emperor.",
+    "flavor": "Do they make decisions based on age? \"I'm two minutes older therefore we burn this village.\"",
+    "artist": "Mike Sass",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_131.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_131_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      },
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_195",
+    "name": "Wisps of the Old Gods",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 7,
+    "text": "<b>Choose One -</b> Summon seven 1/1 Wisps; or Give your minions +2/+2.",
+    "flavor": " They're just normal wisps, actually. The \"Of the Old Gods\" bit is just marketing.",
+    "artist": "Skan Srisuwan",
+    "collectible": true,
+    "playerClass": "Druid",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_195.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_195_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_120",
+    "name": "Anomalus",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 8,
+    "attack": 8,
+    "health": 6,
+    "text": "<b>Deathrattle:</b> Deal 8 damage to all minions.",
+    "flavor": "That's short for \"Anomnomnomnomalus\".",
+    "artist": "Kan Lui",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Mage",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_120.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_120_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_211",
+    "name": "Call of the Wild",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 8,
+    "text": "Summon all three Animal Companions.",
+    "flavor": "\"Hello. Misha, Leokk and Huffer aren't here right now, but if you leave a message we'll get back to you right away.\" BEEP.",
+    "artist": "Peter Stapleton",
+    "collectible": true,
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_211.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_211_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_255",
+    "name": "Doomcaller",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 8,
+    "attack": 7,
+    "health": 9,
+    "text": "<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i> If it's dead, shuffle it into your deck.",
+    "flavor": "\"Hello, is Doom there? No? Can I leave a message?\"",
+    "artist": "Ben Zhang",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_255.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_255_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_142",
+    "name": "Eldritch Horror",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 8,
+    "attack": 6,
+    "health": 10,
+    "flavor": "Often wonders what path his life might have taken if he wasn't named, you know, \"Eldritch Horror\".",
+    "artist": "Mike Sass",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_142.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_142_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_308",
+    "name": "Giant Sand Worm",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "text": "Whenever this attacks and kills a minion, it may attack again.",
+    "flavor": "Banned from every all-you-can-eat buffet on Azeroth.",
+    "artist": "Slawomir Maniak",
+    "collectible": true,
+    "race": "Beast",
+    "playerClass": "Hunter",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_308.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_308_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_229",
+    "name": "Ragnaros, Lightlord",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "text": "At the end of your turn, restore 8 Health to a damaged friendly character.",
+    "flavor": "What happens when you try and corrupt a corrupted firelord? DOUBLE NEGATIVE, INSECT!",
+    "artist": "James Ryman",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Paladin",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_229.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_229_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_300",
+    "name": "The Boogeymonster",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 8,
+    "attack": 6,
+    "health": 7,
+    "text": "Whenever this attacks and kills a minion, gain +2/+2.",
+    "flavor": "Has 20 years of training in classical ballet, but ALLLLLL he ever gets asked to do is boogie.",
+    "artist": "Alex Horley Orlandelli",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_300.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_300_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_282",
+    "name": "Blade of C'Thun",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 9,
+    "attack": 4,
+    "health": 4,
+    "text": "<b>Battlecry:</b> Destroy a minion. Add its Attack and Health  to C'Thun's <i>(wherever it is).</i>",
+    "flavor": "C'Thun demands a sacrifice! Preferably a Deathwing.",
+    "artist": "Steve Prescott",
+    "collectible": true,
+    "playerClass": "Rogue",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_282.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_282_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_173",
+    "name": "Blood of The Ancient One",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 9,
+    "attack": 9,
+    "health": 9,
+    "text": "If you control two of these\nat the end of your turn, merge them into 'The Ancient One'.",
+    "flavor": "Add two cups of Blood of the Ancient One to one cup of lemon juice. Add just a dash of sugar and stir. Delicious!",
+    "artist": "A. J. Nazzaro",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_173.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_173_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_340",
+    "name": "Soggoth the Slitherer",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 9,
+    "attack": 5,
+    "health": 9,
+    "text": "<b>Taunt</b>\nCan't be targeted by spells or Hero Powers.",
+    "flavor": "Don't tell Soggoth, but in the future he gets totally owned by the Master's Glaive and his skull becomes a tourist attraction.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_340.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_340_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_280",
+    "name": "C'Thun",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.",
+    "flavor": "C'Thun's least favorite Hearthstone card: Eye for an Eye.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "elite": true,
+    "howToGet": "Unlocked when opening a Whispers of the Old Gods pack.",
+    "howToGetGold": "Crafting unlocked after opening a Whispers of the Old Gods pack.",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_280.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_280_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_317",
+    "name": "Deathwing, Dragonlord",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 12,
+    "health": 12,
+    "text": "<b>Deathrattle:</b> Put all Dragons from your hand into the battlefield.",
+    "flavor": "To his credit, Deathwing really took to heart the feedback he was receiving that he needed to be \"more of a team player\".",
+    "artist": "Alex Horley Orlandelli",
+    "collectible": true,
+    "elite": true,
+    "race": "Dragon",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_317.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_317_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_239",
+    "name": "DOOM!",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 10,
+    "text": "Destroy all minions. Draw a card for each.",
+    "flavor": "We ran out of space for \"DOOOOOOOOOOOM!!!!!\"",
+    "artist": "Raymond Swanland",
+    "collectible": true,
+    "playerClass": "Warlock",
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_239.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_239_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_141",
+    "name": "Faceless Behemoth",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 10,
+    "attack": 10,
+    "health": 10,
+    "flavor": "Rejected names: Forty-Foot Faceless, Big ol' No-face, Huge Creature Sans Face, Teddy.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_141.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_141_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_133",
+    "name": "N'Zoth, the Corruptor",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 5,
+    "health": 7,
+    "text": "<b>Battlecry:</b> Summon your <b>Deathrattle</b> minions that died this game.",
+    "flavor": "Has not been able to get \"Under the Sea\" out of his head for like FIVE THOUSAND YEARS.",
+    "artist": "Tyson Murphy",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_133.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_133_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "OG_042",
+    "name": "Y'Shaarj, Rage Unbound",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 10,
+    "health": 10,
+    "text": "At the end of your turn, put a minion from your deck into the battlefield.",
+    "flavor": "When he's working out, he binds all that rage back into a ponytail.",
+    "artist": "Samwise",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_042.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_042_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "OG_134",
+    "name": "Yogg-Saron, Hope's End",
+    "cardSet": "Whispers of the Old Gods",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 7,
+    "health": 5,
+    "text": "<b>Battlecry:</b> Cast a random spell for each spell you've cast this game <i>(targets chosen randomly)</i>.",
+    "flavor": "I spell your doom... Y-O-U-R D-O-O-M!",
+    "artist": "Tooth",
+    "collectible": true,
+    "elite": true,
+    "img": "http://wow.zamimg.com/images/hearthstone/cards/enus/original/OG_134.png",
+    "imgGold": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/OG_134_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  }
+]
