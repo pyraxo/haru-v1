@@ -37,11 +37,12 @@ node_modules
 config.json
 lib/modules/Currency/.credits/credits.json
 
-res.png
-res.jpg
+res*.png
+res*.jpg
 
 lib/modules/Fun/.tags/tags.json
 lib/modules/Fun/.call/channels.json
-lib/modules/Fun/.hs/Classic.json
 
 *.config
+
+lib/modules/Fun/.hs/golden
