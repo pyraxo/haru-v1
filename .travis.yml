@@ -2,7 +2,9 @@ language: node_js
 node_js:
   - stable
 install:
+  - sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++
   - npm install
 before_script:
   - mocha --version
   - npm test
+sudo: required
