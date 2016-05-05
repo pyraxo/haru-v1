@@ -1,6 +1,6 @@
 {
   "name": "haru",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Discord multi-functional command bot",
   "main": "index.js",
   "scripts": {
