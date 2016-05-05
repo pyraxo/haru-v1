@@ -39,4 +39,7 @@ res*.png
 res*.jpg
 *.config
 
-db
+lib/modules/Fun/.hs/golden
+lib/modules/Fun/.call/channels.json
+
+db/*.json
