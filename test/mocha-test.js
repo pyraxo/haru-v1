@@ -3,7 +3,7 @@ require('babel-core/register')
 require('babel-polyfill')
 var expect = require('chai').expect
 
-var Bot = require('../src').Bot
+var Bot = require('../lib').Bot
 
 describe('Initialisation', function () {
   describe('#login()', function () {
