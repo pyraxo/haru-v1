@@ -2,7 +2,7 @@
 require('babel-core/register')
 require('babel-polyfill')
 
-const Bot = require('./src').Bot
+const Bot = require('./lib').Bot
 let env = process.env
 
 let debug = {

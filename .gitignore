@@ -35,14 +35,8 @@ node_modules
 
 # Configuration and other files
 config.json
-lib/modules/Currency/.credits/credits.json
-
 res*.png
 res*.jpg
-
-lib/modules/Fun/.tags/tags.json
-lib/modules/Fun/.call/channels.json
-
 *.config
 
-lib/modules/Fun/.hs/golden
+db

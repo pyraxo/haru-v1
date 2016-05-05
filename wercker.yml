@@ -1,0 +1,7 @@
+box: node
+build:
+  steps:
+    - install-packages:
+        packages: libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev g++-4.8
+    - npm-install
+    - npm-test
