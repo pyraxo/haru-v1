@@ -9,12 +9,12 @@ var Bot = require('../lib').Bot
 var client = new Bot(false, {
   'token': process.env['discord_token'],
   'prefix': '!'
-}, true)
+})
 
 if (typeof process.env['discord_token'] !== 'undefined') {
   describe('Initialisation', function () {
     describe('#login()', function () {
-      this.timeout(300000)
+      this.timeout(30000)
       it('should login to Discord and fire on ready event', function (done) {
         var check = function () {
           setTimeout(function () {
