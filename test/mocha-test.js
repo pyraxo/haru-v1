@@ -14,7 +14,7 @@ var client = new Bot(false, {
 if (typeof process.env['discord_token'] !== 'undefined') {
   describe('Initialisation', function () {
     describe('#login()', function () {
-      this.timeout(30000)
+      this.timeout(300000)
       it('should login to Discord and fire on ready event', function (done) {
         var check = function () {
           setTimeout(function () {
