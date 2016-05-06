@@ -35,11 +35,9 @@ node_modules
 
 # Configuration and other files
 config.json
-res*.png
-res*.jpg
 *.config
 
-lib/modules/Fun/.hs/golden
-lib/modules/Fun/.call/channels.json
+res*.png
+res*.jpg
 
-db/*.json
+backups
