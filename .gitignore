@@ -39,5 +39,6 @@ config.json
 
 res*.png
 res*.jpg
+lib/modules/Fun/.hs/golden
 
 backups
