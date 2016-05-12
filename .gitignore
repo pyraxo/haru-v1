@@ -41,4 +41,6 @@ res*.png
 res*.jpg
 lib/modules/Fun/.hs/golden
 
+db
+
 backups
