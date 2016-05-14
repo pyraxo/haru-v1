@@ -41,6 +41,9 @@ res*.png
 res*.jpg
 lib/modules/Fun/.hs/golden
 
-db
+db/credits.json
+db/reply-channels.json
+db/prayers.json
+
 
 backups
