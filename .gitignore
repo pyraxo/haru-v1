@@ -39,12 +39,11 @@ config.json
 
 res*.png
 res*.jpg
-lib/modules/Fun/.hs/golden
+lib/modules/Fun/hs/golden
 
 db/credits.json
 db/reply-channels.json
 db/prayers.json
-
 
 backups
 
