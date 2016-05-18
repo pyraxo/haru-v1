@@ -22,9 +22,10 @@
     "url": "git+https://github.com/pyraxo/haru.git"
   },
   "dependencies": {
-    "babel-core": "^6.7.7",
+    "babel-core": "^6.9.0",
     "babel-plugin-transform-es2015-destructuring": "^6.6.5",
-    "babel-polyfill": "^6.7.4",
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
     "babel-preset-es2015-node5": "^1.2.0",
     "canvas": "^1.3.12",
     "chalk": "^1.1.3",
@@ -34,7 +35,7 @@
     "events": "^1.1.0",
     "gm": "^1.22.0",
     "jsonfile": "^2.3.1",
-    "lodash": "^4.11.1",
+    "lodash": "^4.12.0",
     "moment": "^2.13.0",
     "node-base64-image": "^0.1.2",
     "options-resolver": "^1.0.1",
