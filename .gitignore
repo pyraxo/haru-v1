@@ -39,7 +39,7 @@ config.json
 
 res*.png
 res*.jpg
-lib/modules/Fun/hs/golden
+lib/modules/Games/hs/golden
 
 db/credits.json
 db/reply-channels.json
